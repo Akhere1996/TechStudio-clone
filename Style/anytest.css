@@ -1,0 +1,36 @@
+/* body{
+    background-color: aquamarine;
+}
+hr{
+    background-color: white;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 5%;
+    border-color: aqua;
+   
+}
+h1{
+    color: red; 
+    font-size: 50px;
+}
+img{
+    background-color: rgb(13, 13, 177);
+} */
+
+.bac{
+    background-color: brown;
+}
+
+body{
+    background-color: brown;
+}
+h1{
+    color: blue;
+    border: solid rgb(253, 249, 249);
+    margin-top: auto;
+    padding: 2px;
+}
+div{
+    background-color: blue;
+}

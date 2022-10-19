@@ -1,0 +1,19 @@
+body{
+    background-color: bisque;
+}
+h2{
+    color: rgb(219, 18, 18);
+    border: solid blue;
+    margin-right: 20px;
+    padding: 5px;
+    
+}
+div :hover{
+    color: red;
+    border-style: dashed;
+}
+.P22{
+    color: blue;
+
+}
+.sele

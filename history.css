@@ -1,0 +1,22 @@
+body{
+    color: brown;
+}
+h2{
+    color: blue;
+    border: solid red;
+    padding: 2px 6px;
+    border-radius: 100px;
+
+}
+h3{
+    color: blue;
+    border-style: none;
+    border-radius: 200px;
+    margin-right: 20px;
+    text-align: center;
+    padding: 2px 6px;
+
+}
+ul li a:hover{
+    color: rgb(27, 212, 212);
+}

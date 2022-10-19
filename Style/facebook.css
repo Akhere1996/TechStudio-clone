@@ -1,0 +1,115 @@
+body{
+    background-color: aliceblue;
+}
+.wrapper{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-around;
+
+}
+.left{
+    
+    text-align: left;
+}
+.left h1{
+    color: blue;
+    font-size: 45px;
+    font-family: sans-serif;
+    padding: 30px 5px
+
+
+}
+.left p{
+   font-size: 25px;
+   line-height: 25px;
+   margin-top: -15px;
+}
+.right{
+
+    
+}
+form{
+    background-color: white;
+    padding: 15px 5px;
+    border-radius: 10px;
+    box-shadow: 3px 3px rgb(red, green, blue)
+
+}
+input, .logbnt, .empty{
+    width: 300px;
+    
+}
+input{
+    height: 40px;
+    border-radius: 7px;
+    margin-top: 10px;
+    border: 1p solid greenyellow;
+    outline: none;
+    padding: 5px;
+    font-size: 12px;
+    color: rgb(red, green, blue);
+
+
+}
+.logbtn{
+    margin-top: 10px;
+    background-color: blue;
+    border: none;
+    color: white;
+    font-size: 18px;
+    text-align: center;
+    height: 40px;
+    border-radius: 9px;
+    padding: 10px;
+    width: 327px;
+    font-weight: 900;
+    
+}
+.empty{
+    border-bottom: 1px solid rgb(15, 15, 15);
+    text-align: center;
+    margin-top: 10px;
+    padding: 3px;
+
+    
+
+}
+.forget_anc{
+    display: block;
+    color: blue;
+    text-decoration: underline;
+    text-align: center;
+    margin-top: 10px;
+    margin: 0 auto;
+
+
+}
+.forget_anc:hover{
+    text-decoration: underline;
+
+}
+.creat{
+    background-color: green;
+    border-radius: 5px;
+    color: white;
+    font-size: 18px;
+    font-weight: 400px;
+    border: none;
+    display: block;
+    text-align: center;
+    margin: 10px auto;
+    height: 40px;
+    border-radius: 7;
+    
+}
+#last{
+    color: black;
+    font-weight: 200;
+    margin-top: 10px;
+
+}
+#last a:hover{
+    text-decoration: underline;
+    color: black;
+    font-weight: 200;
+}
