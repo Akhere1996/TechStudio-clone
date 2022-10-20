@@ -264,9 +264,8 @@ button{
 
 }
 .box{
-    font-size: 15px;
-    margin-right: 400px;
-    border: 1px solid black;
+    font-size: 18px;
+    margin-left: -670px;
     width: 350px;
     padding: 20px;
     size: 100px;
@@ -275,7 +274,8 @@ button{
     margin-right: 100px;
     box-shadow: none;
     margin-top: 150px;
-
+    box-shadow: 0 5px 10px rgb(0 0 0 / 0.2);
+    border-radius: 15px;
 }
 .state{
     margin: 0 auto;
@@ -310,4 +310,43 @@ button{
     text-align: center;
     justify-content: space-between;
     margin-bottom: 0 auto;
+}
+.uuuuu1{
+    display: flex;
+    justify-content: space-around;
+    margin: 0 auto;
+    text-align: center;
+}
+.inter1{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid white;
+    text-align: center;
+    margin-top: 100px;
+    size: 100px;
+    padding: 20px;
+    font-size: 18px;
+    background-color: blue;
+    margin-left: 253px;
+    margin-right: 253px;
+
+}
+
+.butt{
+    
+}
+.chee{
+    background-color: whitesmoke;
+    width: -500%;
+    padding: 6px 12px 6px 12px;
+    padding-bottom: 45px;
+    
+    
+}
+.text2{
+    color: white;
+    text-align: center;
+    font-size: 18px;
+    margin-left: 100px;
+    margin-right: 50px;
 }
