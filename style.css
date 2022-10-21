@@ -315,9 +315,54 @@ button{
     display: flex;
     justify-content: space-around;
     margin: 0 auto;
+}
+.u{
+    margin-left: 400px;
     text-align: center;
 }
-.inter1{
+.empty00{
+    width: 40px;
+    height: 2px;
+    border: 1px solid rgb(75, 75, 226);
+    margin: auto;
+    background-color: blue;
+}
+.u1{
+    margin-left: 300px;
+    text-align: center;
+}
+.u2{
+    margin-top: 200px;
+    font-size: 18px;
+    text-align: center;
+}
+.car0{
+    margin-left: 250px;
+}
+
+.interbackground{
+    border: 1px solid blue;
+    width: 800px;
+    display: flex;
+    justify-content: space-around;
+    background-color: blue;
+    margin: 0 auto;
+    padding: 18px;
+    border-radius: 8px;
+    margin-top: 50px;
+}
+
+.button-AK{
+    background-color: white;
+    color: blue;
+    width: 250px;
+}
+
+.interbackground P{
+    color: white;
+    font-size: 25px;
+}
+/* .inter1{
     display: flex;
     justify-content: space-between;
     border: 2px solid white;
@@ -330,23 +375,139 @@ button{
     margin-left: 253px;
     margin-right: 253px;
 
-}
+} */
 
-.butt{
-    
-}
-.chee{
+/* .chee{
     background-color: whitesmoke;
     width: -500%;
     padding: 6px 12px 6px 12px;
     padding-bottom: 45px;
+    margin-top: 10px;
     
     
 }
 .text2{
     color: white;
     text-align: center;
-    font-size: 18px;
+    font-size: 20px;
     margin-left: 100px;
     margin-right: 50px;
+} */
+
+.frequent{
+    display: flex;
+    font-size: 16px;
+    justify-content: space-around;
+    width: auto;
+    margin-top: 50px;
+}
+.frequent11{
+    text-align: center;
+    margin-top: 10px;
+
+}
+.empty98{
+    width: 40px;
+    height: 2px;
+    border: 1px solid rgb(75, 75, 226);
+    margin: auto;
+    background-color: blue;
+}
+.f1{
+    margin-left: 200px;
+}
+.f2{
+    margin-right: 300px;
+}
+.java1{
+    display: flex;
+    justify-content: space-around;
+}
+.h100{
+  
+  margin-top: 15px;
+  height: 900px;
+  background-color: blue;
+  
+}
+.java2{
+    font-size: 14px;
+    border: 1px solid rgb(248, 244, 244);
+    height: 500px;
+    background-color: white;
+    /* margin: auto; */
+    margin-top: 100px;
+    padding-left: 15px;
+    padding-top: 30px;
+   
+    
+}
+.java3{
+    font-size: 14px;
+    border: 1px solid rgb(201, 10, 10);
+    box-shadow: 0 5px 10px rgb(0 0 0 / 0.2);
+    border-radius: auto;
+    background-color: red;
+    margin-top: 100px;
+    padding-left: 40px;
+    padding-top: 30px;
+    color: white;
+    justify-content: space-around;
+
+}
+.bu1{
+    margin-left: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+
+.section-12{
+    background-color: black;
+    color: white;
+    margin-bottom: 20px;
+}
+.sec-12{
+    display: flex;
+    justify-content: space-around;
+}
+.sinUP{
+    
+    font-size: 18px;
+    font-weight: 100;
+    margin-right: 200px;
+}
+.enter2{
+
+}
+
+.SocialMedia{
+    
+    
+}
+.SocialMediaLogos{
+    display: flex;
+    justify-content: space-around;
+}
+.LogoAndAddress{
+    display: flex;
+    justify-content: space-around;
+}
+.imggg{
+    margin: auto;
+    margin-top: 20px;
+    padding: 4px 8px;
+}
+.techtexxt{
+    font-size: 16px;
+    margin-top: 10px;
+}
+.techtexxt1{
+    margin-right:  150px;
+    margin-bottom: 50px;
+}
+.button-adj input{
+    padding: 16px;
+    width: 350px;
+    font-weight: 600;
+    margin: auto;
 }
